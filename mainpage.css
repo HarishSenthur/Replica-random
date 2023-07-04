@@ -1,0 +1,11 @@
+.main-page-show-all-container{
+    grid-template-columns: auto auto auto;
+    display: grid;
+    gap: 2px;
+}
+
+.user-total-container{
+    grid-template-columns: auto auto auto;
+    display: flex;
+    gap: 2px;
+}
